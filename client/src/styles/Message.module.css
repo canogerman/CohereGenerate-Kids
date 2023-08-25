@@ -1,0 +1,31 @@
+.message {
+  background-color: white;
+  color: black;
+  width: fit-content;
+  max-width: 50ch;
+  padding: 0.5em;
+  border-radius: 5px;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.text {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  word-wrap: break-word;
+  color: #000;
+}
+
+.span {
+  font-weight: 900;
+  color: var(--text-color);
+  text-transform: capitalize;
+}
+
+.me {
+  background-color: var(--accent-color);
+  color: var(--text-color);
+  align-self: flex-end;
+}
