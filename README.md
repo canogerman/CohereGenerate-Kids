@@ -42,7 +42,7 @@ ___
 
 ## Instalación y uso:
 
-1. Clona el repositorio con: git clone https://github.com/canogerman/ChatGPT-Kids
+1. Clona el repositorio con: git clone git@github.com:canogerman/CohereGenerate-Kids.git
 2. Debes crear una cuenta en https://cohere.com/ y automáticamente obtendrás una apiKey que puedes consultar en https://dashboard.cohere.ai/api-keys
 3. Navega a la carpeta server del proyecto y tipea: "cp .env.example .env"
 4. Copia tu APIKey creada y pégala en el archivo .env
